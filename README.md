@@ -21,7 +21,7 @@ There are also many useful functions in the [Sub](Sub) directory.
 
 ## Table of Contents
 
-- [Radio Map Learning and Reconstruction Exploiting Environment Semantics]
+- [Radio Map Learning and Reconstruction Exploiting Environment Semantics](#Radio-Map-Learning-and-Reconstruction-Exploiting-Environment-Semantics)
 	- [Table of Contents](#table-of-contents)
 	- [Background](#background)
 	- [Install](#install)
